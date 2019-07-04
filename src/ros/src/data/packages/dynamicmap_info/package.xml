@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>dynamicmap_info</name>
+  <version>1.6.3</version>
+  <description>The dynamicmap_info package</description>
+  <maintainer email="autoware@axe.bz">AXE,Inc</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>autoware_msgs</build_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>autoware_msgs</run_depend>
+  <export>
+  </export>
+</package>
